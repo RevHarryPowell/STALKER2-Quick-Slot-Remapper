@@ -1,5 +1,5 @@
 # STALKER2-Quick-Slot-Remapper
-AutoHotKey Script to Remap Quick Access Slots to F1,F2,F3,F4
+Lightweight AutoHotKey script to remap Quick Access Slots to F1,F2,F3,F4 in STALKER 2
 
 
 ## How to use it
